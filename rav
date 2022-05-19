@@ -10,3 +10,7 @@ git remote -v
 git log
 git show COMMIT ID 
 git commit -a -m " message "
+git push alias name branch name
+git reset 
+git revert
+
