@@ -13,4 +13,7 @@ git commit -a -m " message "
 git push alias name branch name
 git reset 
 git revert
+git merge
+gitignore
+git diff
 
