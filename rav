@@ -1,0 +1,12 @@
+mkdir 
+cd 
+cd ..
+git init 
+git add .
+git commit -m "  commit "
+git remote add ------
+git status 
+git remote -v
+git log
+git show COMMIT ID 
+git commit -a -m " message "
